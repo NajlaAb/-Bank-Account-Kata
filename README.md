@@ -78,7 +78,7 @@ You can also run Bank Account locally:
 ## Documentation
 To see the documentation for the exposed APIs, go to http://localhost:8080/swagger-ui/#/
 
-![Alt Text](https://github.com/NajlaAb/Bank-Account-Kata/blob/main/demo/demo.PNG)
+![Alt Text](https://github.com/NajlaAb/-Bank-Account-Kata/blob/main/demo/demo.PNG)
 
 **/account/deposit** : allows you to deposit money. 
 - ***accountId*** is required.
